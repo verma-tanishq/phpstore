@@ -1,6 +1,11 @@
 <?php 
-session_start();
+#if(!isset($_SESSION())){
+session_start(); 
+#} 
+
 include("partials/connect.php");
+
+
 ?>
 	<!-- Header -->
 	<header>
@@ -248,3 +253,4 @@ include("partials/connect.php");
 			</div>
 		</div>
 	</div>
+

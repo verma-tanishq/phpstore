@@ -20,4 +20,5 @@ if (isset($_SESSION['cart'])) {
 	window.location.href='product.php';
 	</script>";
 }
+
 ?>

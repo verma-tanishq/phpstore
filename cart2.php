@@ -9,19 +9,18 @@ include ("partials/head.php");
 	<?php
 	include ("partials/header.php");
 
-
 ?>
 
 	<!-- breadcrumb -->
 	<div class="container">
 		<div class="bread-crumb flex-w p-l-25 p-r-15 p-t-30 p-lr-0-lg">
-			<a href="index.html" class="stext-109 cl8 hov-cl1 trans-04">
+			<a href="index.php" class="stext-109 cl8 hov-cl1 trans-04">
 				Home
 				<i class="fa fa-angle-right m-l-9 m-r-10" aria-hidden="true"></i>
 			</a>
 
 			<span class="stext-109 cl4">
-				Shopitime
+				Shoptime
 			</span>
 		</div>
 	</div>
@@ -127,7 +126,7 @@ include ("partials/head.php");
 
 							<div class="size-209 p-r-18 p-r-0-sm w-full-ssm">
 								<p class="stext-111 cl6 p-t-2">
-									We will deliver anywhere by our Anbu Black Ops.
+									We will deliver anywhere in NEW YORK & MILAN.
 								</p>
 								
 								<div class="p-t-15">
