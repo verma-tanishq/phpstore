@@ -35,19 +35,19 @@
 					</h4>
 
 					<p class="stext-107 cl7 size-201">
-						Any Requests? Let us know in Hokage Office, Hidden street, HIdden leaf village, HL 10018 or call us on (+1) 96 Shikamaru
+						Any Requests? Let us know in New Delhi office, Hidden street near MR Road, HL 10018 or call us on (+91) 9823134121
 					</p>
 
 					<div class="p-t-27">
-						<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+						<a href="https://facebook.com/" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
 							<i class="fa fa-facebook"></i>
 						</a>
 
-						<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+						<a href="https://instagram.com/" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
 							<i class="fa fa-instagram"></i>
 						</a>
 
-						<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+						<a href="https://in.pinterest.com/" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
 							<i class="fa fa-pinterest-p"></i>
 						</a>
 					</div>
