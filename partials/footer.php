@@ -35,33 +35,15 @@
 					</h4>
 
 					<p class="stext-107 cl7 size-201">
-<<<<<<< HEAD
 						Any Requests? Let us know in our Delhi Office NX-7 NY Street or call us at (+91) 7777788888  
-||||||| 8bef83e
-						Any Requests? Let us know in Hokage Office, Hidden street, HIdden leaf village, HL 10018 or call us on (+1) 96 Shikamaru
-=======
-						Any Requests? Let us know in New Delhi office, Hidden street near MR Road, HL 10018 or call us on (+91) 9823134121
->>>>>>> first-branch
 					</p>
 
 					<div class="p-t-27">
-<<<<<<< HEAD
 						<a href="https://www.facebook.com/" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
-||||||| 8bef83e
-						<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
-=======
-						<a href="https://facebook.com/" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
->>>>>>> first-branch
 							<i class="fa fa-facebook"></i>
 						</a>
 
-<<<<<<< HEAD
 						<a href="https://www.instagram.com/" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
-||||||| 8bef83e
-						<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
-=======
-						<a href="https://instagram.com/" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
->>>>>>> first-branch
 							<i class="fa fa-instagram"></i>
 						</a>
 
